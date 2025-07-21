@@ -25,7 +25,7 @@ const html = `
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css"
     />
-    <title>Vercel + Fastify Hello World</title>
+    <title>Vercel + Fastify Hello World 2</title>
     <meta
       name="description"
       content="This is a starter template for Vercel + Fastify."
